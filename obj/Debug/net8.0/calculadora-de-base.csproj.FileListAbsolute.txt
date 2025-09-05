@@ -1,0 +1,14 @@
+/home/cintia/Documentos/calculadora-de-base/bin/Debug/net8.0/calculadora-de-base
+/home/cintia/Documentos/calculadora-de-base/bin/Debug/net8.0/calculadora-de-base.deps.json
+/home/cintia/Documentos/calculadora-de-base/bin/Debug/net8.0/calculadora-de-base.runtimeconfig.json
+/home/cintia/Documentos/calculadora-de-base/bin/Debug/net8.0/calculadora-de-base.dll
+/home/cintia/Documentos/calculadora-de-base/bin/Debug/net8.0/calculadora-de-base.pdb
+/home/cintia/Documentos/calculadora-de-base/obj/Debug/net8.0/calculadora-de-base.GeneratedMSBuildEditorConfig.editorconfig
+/home/cintia/Documentos/calculadora-de-base/obj/Debug/net8.0/calculadora-de-base.AssemblyInfoInputs.cache
+/home/cintia/Documentos/calculadora-de-base/obj/Debug/net8.0/calculadora-de-base.AssemblyInfo.cs
+/home/cintia/Documentos/calculadora-de-base/obj/Debug/net8.0/calculadora-de-base.csproj.CoreCompileInputs.cache
+/home/cintia/Documentos/calculadora-de-base/obj/Debug/net8.0/calculadora-de-base.dll
+/home/cintia/Documentos/calculadora-de-base/obj/Debug/net8.0/refint/calculadora-de-base.dll
+/home/cintia/Documentos/calculadora-de-base/obj/Debug/net8.0/calculadora-de-base.pdb
+/home/cintia/Documentos/calculadora-de-base/obj/Debug/net8.0/calculadora-de-base.genruntimeconfig.cache
+/home/cintia/Documentos/calculadora-de-base/obj/Debug/net8.0/ref/calculadora-de-base.dll
